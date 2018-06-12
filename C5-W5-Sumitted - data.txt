@@ -1,0 +1,26 @@
+2018/03/18
+
+Please Upload Your Submission:
+
+Link to your site 
+http://www.eesteves.byethost17.com/_My_C5-Fin_4.0_2018/my_BStrap_Carousel_Updt_4.0-5us.html
+
+Written description to go with your URL submission 
+
+NOTE:- Having submitted ABOVE my .HTML link to my Site (hosted in Byethost), I am submitting my .avi link to my Video HERE - !!!
+http://www.eesteves.byethost17.com/_My_C5-Fin_4.0_2018/SP1-C5-Week_1-Assignment.avi
+About the Site:
+1)- Site is full compliant with the w3 validator - Nu_Html_Checker. To run this w3 validator please use the - Page source code - of the Site.
+2)- Site is fully responsive. This can be checked directly accessing the Site but more clearly viewing the Video where various viewport sizes are shown from 1920x1080 down to a phone (portrait) viewport.
+3)- Site is well-styled, namely in what concerns the 'extra' - Carousel - showing 3 Coursera Certificates.
+4)- The basic 'extra' is a - Bootstrap Carousel - heavily custom styled.
+Best Regards and Good Learning - Ernesto Esteves
+
+Enter optional comments below
+
+NOTE:- Having submitted ABOVE my .HTML link to my Site (hosted in Byethost), I am submitting my .avi link to my Video HERE - !!!
+http://www.eesteves.byethost17.com/_My_C5-Fin_4.0_2018/SP1-C5-Week_1-Assignment.avi
+1)- I am now trying to complete the present - Course 5 - Web Design for Everybody Capstone - to obtain the full Specialization Certificate.
+2)- In a previous Session I have already completed the Weeks 2 / 3 / 4 - and therefore almost done.
+3)- I really hope that this Submission will be successful.
+Best Regards and Good Learning - Ernesto Esteves

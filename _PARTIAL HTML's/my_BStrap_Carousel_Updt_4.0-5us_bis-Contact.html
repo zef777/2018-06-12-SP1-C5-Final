@@ -1,0 +1,57 @@
+<!-- For 2018 - C5_W1 - Optional Assignment - !!!
+E:\OneDrive\__________SP1_C5_Fin_Assign\_My_C5-Fin_4.0_2018\
+my_BStrap_Carousel_Updt_4.0-5us_bis.HTML
+-->
+
+<!-- Contact Section - From 4.0 Template -->
+
+<section id="contact">
+  <div class="container">
+    <h2 class="text-center text-uppercase text-secondary mb-0">Contact Me</h2>
+    <hr class="star-dark mb-5">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <!-- To configure the contact form email address,
+         go to mail/contact_me.php and update the email address
+         in the PHP file on line 19. -->
+        <!-- The form should work on most web servers, but if the form is not working
+         you may need to configure your web server differently. -->
+        <form name="sentMessage" id="contactForm" novalidate="novalidate">
+          <div class="control-group">
+            <div class="form-group floating-label-form-group controls mb-0 pb-2">
+              <label>Your Name</label>
+              <input class="form-control" id="name" type="text" placeholder="Your Name:" required="required" data-validation-required-message="Please type your Name.">
+              <p class="help-block text-danger"></p>
+            </div>
+          </div>
+          <div class="control-group">
+            <div class="form-group floating-label-form-group controls mb-0 pb-2">
+              <label>Your Email</label>
+              <input class="form-control" id="email" type="email" placeholder="Your Email:" required="required" data-validation-required-message="Please type your Email.">
+              <p class="help-block text-danger"></p>
+            </div>
+          </div>
+          <div class="control-group">
+            <div class="form-group floating-label-form-group controls mb-0 pb-2">
+              <label>Your Phone</label>
+              <input class="form-control" id="phone" type="tel" placeholder="Your Phone Nr:" required="required" data-validation-required-message="Please type your Phone Nr.">
+              <p class="help-block text-danger"></p>
+            </div>
+          </div>
+          <div class="control-group">
+            <div class="form-group floating-label-form-group controls mb-0 pb-2">
+              <label>Your Message</label>
+              <textarea class="form-control" id="message" rows="5" placeholder="Your Message:" required="required" data-validation-required-message="Please type your Message."></textarea>
+              <p class="help-block text-danger"></p>
+            </div>
+          </div>
+          <br>
+          <div id="success"></div>
+          <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-xl" id="sendMessageButton">Submit</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
